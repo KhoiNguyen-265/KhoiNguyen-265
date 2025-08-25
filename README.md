@@ -43,7 +43,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=KhoiNguyen-265&theme=radical&cacheBust=1" alt="GitHub Streak" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KhoiNguyen-265&theme=radical" alt="GitHub Streak" height="165"/>
 </p>
 
 ---
