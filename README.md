@@ -9,7 +9,6 @@
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=KhoiNguyen-265&label=Profile%20views&color=0e75b6&style=flat" alt="KhoiNguyen-265" /> 
 </p>
----
 
 ## About Me
 - 3rd-year **Information Technology student** at Hanoi University of Mining and Geology  
@@ -19,7 +18,7 @@
 
 ---
 
-## 🛠Languages & Tools
+## Languages & Tools
 ### Primary Languages:
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,javascript,sass,cpp,c" />
@@ -44,7 +43,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=KhoiNguyen-265&theme=radical" alt="GitHub Streak" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=KhoiNguyen-265&theme=radical&cacheBust=1" alt="GitHub Streak" height="165"/>
 </p>
 
 ---
