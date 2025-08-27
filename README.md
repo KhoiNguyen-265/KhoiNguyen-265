@@ -26,7 +26,7 @@
 
 ### Exploring:
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,csharp,dotnet,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,dotnet,tailwind,python" />
 </p>
 
 ### Tools:
