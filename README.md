@@ -68,7 +68,7 @@
 
 ## Connect with Me
 - Email: **9akhoint11@gmail.com** 
-- Portfolio / Blog: *Coming soon!*
+- Portfolio **https://khoinguyen-265.github.io/portfolio/**
 - Facebook: **https://www.facebook.com/nguyen.tien.khoi.690572/?locale=vi_VN**
 
 ---
