@@ -21,12 +21,12 @@
 ## Languages & Tools
 ### Primary Languages:
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,sass,cpp,c" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript" />
 </p>
 
 ### Exploring:
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,php,dotnet,tailwind,python" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,php,dotnet,tailwind,sass" />
 </p>
 
 ### Tools:
